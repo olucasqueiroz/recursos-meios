@@ -1,5 +1,5 @@
-<h1 align="center"> Recursos-meios </h1>
-> Esse documento tem como centralizar todos os recursos e meios para auxiliar desenvolvedores, designs, fotografos, e marketeiros de plantão.
+<h1 align="center">⛏️ Recursos-meios </h1>
+Esse documento tem como centralizar todos os recursos e meios para auxiliar desenvolvedores, designs, fotografos, e marketeiros de plantão.
 
 ## Design - Mockups
 Graphic Burguer
