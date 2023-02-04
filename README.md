@@ -25,3 +25,16 @@ Esse documento tem como centralizar todos os recursos e meios para auxiliar dese
 * Google Trends
 * Barra de pesquisa do Google
 * Barra de pesquisa do Youtube
+
+## ⚫ Consumir API
+* OpenWeather
+* Google Maps API
+* News API
+* Nasa API
+* Open Exchange Rates API
+
+## 🔴 Repositórios Robustos
+* Free Programming Books
+* JavaScript Questions
+* Developer Roadmap
+* Public API's
