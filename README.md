@@ -1,7 +1,7 @@
-# Recursos-meios
-Esse documento tem como centralizar todos os recursos e meios para auxiliar desenvolvedores, designs, fotografos, e marketeiros de plantão.
+<h1 align="center"> Recursos-meios </h1>
+> Esse documento tem como centralizar todos os recursos e meios para auxiliar desenvolvedores, designs, fotografos, e marketeiros de plantão.
 
-### Design - Mockups
+## Design - Mockups
 Graphic Burguer
 Mockup World
 Hraph Berry
@@ -10,7 +10,7 @@ Orignal Mockups
 World Vector Logo
 Mr Mockup
 
-### Design - Imagens
+## Design - Imagens
 Pexels
 Unsplash
 Raw Pixel
@@ -19,7 +19,7 @@ Visualhunt
 Pic Jumba
 Pixabay
 
-### Marketing - Ideias de Conteúdo
+## Marketing - Ideias de Conteúdo
 Ubersuggest
 Answer The Public
 Google Trends
