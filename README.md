@@ -11,7 +11,7 @@ Esse documento tem como centralizar todos os recursos e meios para auxiliar dese
 * Mr Mockup
 
 ## Design - Imagens
-* (Pexels)[https://pexels.com/]
+* [Pexels](https://pexels.com/)
 * Unsplash
 * Raw Pixel
 * Freepik
